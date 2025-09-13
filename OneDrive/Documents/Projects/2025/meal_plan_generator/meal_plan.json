@@ -1,0 +1,464 @@
+{
+    "Day 1": {
+        "Breakfast": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "salmon",
+                "calories": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fat": 13
+            },
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "salmon",
+                "calories": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fat": 13
+            },
+            {
+                "food": "eggs",
+                "calories": 70,
+                "protein": 6,
+                "carbs": 0.5,
+                "fat": 5
+            }
+        ],
+        "Snack": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "almonds",
+                "calories": 170,
+                "protein": 6,
+                "carbs": 6,
+                "fat": 15
+            }
+        ]
+    },
+    "Day 2": {
+        "Breakfast": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "chicken_breast",
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            },
+            {
+                "food": "spinach",
+                "calories": 20,
+                "protein": 2,
+                "carbs": 3,
+                "fat": 0.2
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "spinach",
+                "calories": 20,
+                "protein": 2,
+                "carbs": 3,
+                "fat": 0.2
+            }
+        ],
+        "Snack": [
+            {
+                "food": "oatmeal",
+                "calories": 150,
+                "protein": 5,
+                "carbs": 27,
+                "fat": 3
+            },
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            }
+        ]
+    },
+    "Day 3": {
+        "Breakfast": [
+            {
+                "food": "greek_yogurt",
+                "calories": 100,
+                "protein": 10,
+                "carbs": 6,
+                "fat": 0
+            },
+            {
+                "food": "salmon",
+                "calories": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fat": 13
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "oatmeal",
+                "calories": 150,
+                "protein": 5,
+                "carbs": 27,
+                "fat": 3
+            },
+            {
+                "food": "salmon",
+                "calories": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fat": 13
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "almonds",
+                "calories": 170,
+                "protein": 6,
+                "carbs": 6,
+                "fat": 15
+            },
+            {
+                "food": "broccoli",
+                "calories": 55,
+                "protein": 4,
+                "carbs": 11,
+                "fat": 0.6
+            }
+        ],
+        "Snack": [
+            {
+                "food": "broccoli",
+                "calories": 55,
+                "protein": 4,
+                "carbs": 11,
+                "fat": 0.6
+            },
+            {
+                "food": "almonds",
+                "calories": 170,
+                "protein": 6,
+                "carbs": 6,
+                "fat": 15
+            }
+        ]
+    },
+    "Day 4": {
+        "Breakfast": [
+            {
+                "food": "eggs",
+                "calories": 70,
+                "protein": 6,
+                "carbs": 0.5,
+                "fat": 5
+            },
+            {
+                "food": "broccoli",
+                "calories": 55,
+                "protein": 4,
+                "carbs": 11,
+                "fat": 0.6
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "spinach",
+                "calories": 20,
+                "protein": 2,
+                "carbs": 3,
+                "fat": 0.2
+            },
+            {
+                "food": "chicken_breast",
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "almonds",
+                "calories": 170,
+                "protein": 6,
+                "carbs": 6,
+                "fat": 15
+            },
+            {
+                "food": "chicken_breast",
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6
+            }
+        ],
+        "Snack": [
+            {
+                "food": "oatmeal",
+                "calories": 150,
+                "protein": 5,
+                "carbs": 27,
+                "fat": 3
+            },
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            }
+        ]
+    },
+    "Day 5": {
+        "Breakfast": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "salmon",
+                "calories": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fat": 13
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "oatmeal",
+                "calories": 150,
+                "protein": 5,
+                "carbs": 27,
+                "fat": 3
+            },
+            {
+                "food": "almonds",
+                "calories": 170,
+                "protein": 6,
+                "carbs": 6,
+                "fat": 15
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "chicken_breast",
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6
+            },
+            {
+                "food": "salmon",
+                "calories": 208,
+                "protein": 20,
+                "carbs": 0,
+                "fat": 13
+            }
+        ],
+        "Snack": [
+            {
+                "food": "eggs",
+                "calories": 70,
+                "protein": 6,
+                "carbs": 0.5,
+                "fat": 5
+            },
+            {
+                "food": "broccoli",
+                "calories": 55,
+                "protein": 4,
+                "carbs": 11,
+                "fat": 0.6
+            }
+        ]
+    },
+    "Day 6": {
+        "Breakfast": [
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            },
+            {
+                "food": "broccoli",
+                "calories": 55,
+                "protein": 4,
+                "carbs": 11,
+                "fat": 0.6
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "eggs",
+                "calories": 70,
+                "protein": 6,
+                "carbs": 0.5,
+                "fat": 5
+            },
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "chicken_breast",
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6
+            }
+        ],
+        "Snack": [
+            {
+                "food": "greek_yogurt",
+                "calories": 100,
+                "protein": 10,
+                "carbs": 6,
+                "fat": 0
+            },
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            }
+        ]
+    },
+    "Day 7": {
+        "Breakfast": [
+            {
+                "food": "brown_rice",
+                "calories": 215,
+                "protein": 5,
+                "carbs": 45,
+                "fat": 1.8
+            },
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            }
+        ],
+        "Lunch": [
+            {
+                "food": "spinach",
+                "calories": 20,
+                "protein": 2,
+                "carbs": 3,
+                "fat": 0.2
+            },
+            {
+                "food": "chicken_breast",
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6
+            }
+        ],
+        "Dinner": [
+            {
+                "food": "oatmeal",
+                "calories": 150,
+                "protein": 5,
+                "carbs": 27,
+                "fat": 3
+            },
+            {
+                "food": "greek_yogurt",
+                "calories": 100,
+                "protein": 10,
+                "carbs": 6,
+                "fat": 0
+            }
+        ],
+        "Snack": [
+            {
+                "food": "broccoli",
+                "calories": 55,
+                "protein": 4,
+                "carbs": 11,
+                "fat": 0.6
+            },
+            {
+                "food": "quinoa",
+                "calories": 120,
+                "protein": 4,
+                "carbs": 21,
+                "fat": 1.9
+            }
+        ]
+    }
+}
